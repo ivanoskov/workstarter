@@ -1,0 +1,6 @@
+._internal
+.venv
+build
+dist
+config.json
+main.exe
