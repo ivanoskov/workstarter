@@ -5,7 +5,6 @@
 <div align="center">
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ivanoskov/workstarter)
-![GitHub all releases](https://img.shields.io/github/downloads/ivanoskov/workstarter/total)
 ![GitHub stars](https://img.shields.io/github/stars/ivanoskov/workstarter?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ivanoskov/workstarter?style=social)
 

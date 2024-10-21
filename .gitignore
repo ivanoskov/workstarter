@@ -4,3 +4,5 @@ build
 dist
 config.json
 main.exe
+workstarter_setup.exe
+*.log
