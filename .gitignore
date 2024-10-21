@@ -1,0 +1,10 @@
+_internal
+.venv
+build
+dist
+config.json
+main.exe
+workstarter_setup.exe
+*.log
+*.exe
+*__pycache__
