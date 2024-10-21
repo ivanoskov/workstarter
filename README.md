@@ -4,14 +4,18 @@
 
 <div align="center">
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ivanoskov/workstarter)
+![GitHub all releases](https://img.shields.io/github/downloads/ivanoskov/workstarter/total)
 ![GitHub stars](https://img.shields.io/github/stars/ivanoskov/workstarter?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ivanoskov/workstarter?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/ivanoskov/workstarter?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/ivanoskov/workstarter)
 
 <img src="image.png" alt="preview" width="600"/>
 
 </div>
+
+## 📥 Скачать
+
+[⬇️ Скачать последнюю версию WorkStarter](https://github.com/ivanoskov/workstarter/releases/latest/download/WorkStarter_Setup.exe)
 
 ## ✨ Возможности
 
@@ -25,8 +29,8 @@
 
 ## 🛠️ Установка
 
-1. Скачайте последнюю версию установщика WorkStarter с [страницы релизов](https://github.com/ivanoskov/workstarter/releases).
-2. Запустите скачанный файл `workstarter_setup.exe`.
+1. [Скачайте последнюю версию WorkStarter](https://github.com/ivanoskov/workstarter/releases/latest/download/WorkStarter_Setup.exe).
+2. Запустите скачанный файл `WorkStarter_Setup.exe`.
 3. Следуйте инструкциям мастера установки.
 
 После установки:
@@ -74,6 +78,11 @@ graph TD
     G --> H
 ```
 
+## 📁 Расположение файлов
+
+- Конфигурационный файл: `C:\Users\<Username>\AppData\Local\ivanoskov\WorkStarter\config.json`
+- Лог-файл: `C:\Users\<Username>\AppData\Local\Temp\WorkStarter.log`
+
 ## 🤝 Вклад в проект
 
 Если хочешь внести свой вклад в WorkStarter, буду рад твоей помощи:
@@ -90,6 +99,7 @@ graph TD
 
 - [PyQt6](https://www.riverbankcomputing.com/software/pyqt/) за инструменты для создания GUI
 - [asyncio](https://docs.python.org/3/library/asyncio.html) за асинхронные возможности
+- [appdirs](https://pypi.org/project/appdirs/) за управление директориями приложения
 
 ---
 
